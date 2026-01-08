@@ -1,1 +1,1 @@
-from review-analysis import config  # noqa: F401
+#from review-analysis import config  # noqa: F401

@@ -1,0 +1,42 @@
+{
+    "Positive Feedback": {
+        "label": "Positive Feedback",
+        "description": "User expressed satisfaction"
+    },
+    "Delivery Speed": {
+        "label": "Delivery Speed",
+        "description": "Fast delivery time"
+    },
+    "Delayed cold orders": {
+        "label": "Delayed cold orders",
+        "description": "Orders delayed beyond 1 hour arrive cold without cancellation"
+    },
+    "High Pricing": {
+        "label": "High Pricing",
+        "description": "Perceived overpricing of items in the app"
+    },
+    "Poor Food Quality": {
+        "label": "Poor Food Quality",
+        "description": "Food was undercooked and contained foreign objects."
+    },
+    "Unaccountable delivery delays": {
+        "label": "Unaccountable delivery delays",
+        "description": "Late deliveries with no meaningful resolution"
+    },
+    "spyware risks": {
+        "label": "spyware risks",
+        "description": "Potential privacy threats from spyware"
+    },
+    "Unresponsive support": {
+        "label": "Unresponsive support",
+        "description": "Lack of proper response from customer service"
+    },
+    "Cash on delivery unavailability": {
+        "label": "Cash on delivery unavailability",
+        "description": "Instamart does not offer cash on delivery payment option"
+    },
+    "Missing items in delivery": {
+        "label": "Missing items in delivery",
+        "description": "Customer reports receiving fewer items than ordered, with no refund offered due to lack of proof."
+    }
+}
