@@ -1,4 +1,4 @@
-# runner_phase4.py
+# runner_phase3.py
 
 from review_analysis.workflow_phase3 import build_phase4_workflow
 
@@ -18,7 +18,7 @@ def run_phase4(
         }
     )
 
-    print("\n✅ PHASE-4 TREND AGGREGATION COMPLETE")
+    print("\n PHASE-3 TREND AGGREGATION COMPLETE")
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-# runner_phase3.py
+# runner_phase2.py
 
 from pathlib import Path
 import re
@@ -36,11 +36,11 @@ def run_phase3_all_days(
             product_files.setdefault(product_id, []).append((date, file))
 
     if not product_files:
-        print("❌ No processed review files found.")
+        print(" No processed review files found.")
         return
 
     for product_id, entries in product_files.items():
-        print(f"\n🧠 Processing product: {product_id}")
+        print(f"\n Processing product: {product_id}")
         entries.sort(key=lambda x: x[0])
 
         for date, file_path in entries:
@@ -59,12 +59,12 @@ def run_phase3_all_days(
                     }
                 )
             except Exception as e:
-                print(f"  ⚠️ Failed for {date}: {e}")
+                print(f"   Failed for {date}: {e}")
 
-            print(f"  ⏳ Waiting {DAY_DELAY_SECONDS}s before next day...")
+            print(f"   Waiting {DAY_DELAY_SECONDS}s before next day...")
             time.sleep(DAY_DELAY_SECONDS)
 
-        print(f"✅ Completed product: {product_id}")
+        print(f" Completed product: {product_id}")
 
 
 if __name__ == "__main__":
@@ -72,3 +72,4 @@ if __name__ == "__main__":
         batch_size=10,
         output_dir="output",
     )
+    print("\n WORKFLOW PHASE 2 COMPLETED SUCCESSFULLY")

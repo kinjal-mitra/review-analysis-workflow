@@ -1,61 +1,156 @@
-# review-analysis-workflow
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+# Review Analysis Workflow (Agentic AI)
 
-AI agent to consume daily Google Play Store reviews (starting from T (given date) to T-30) for an app like Swiggy or Zomato and generate a trend analysis report.
+An end-to-end **agentic AI system** for analyzing Google Play Store reviews and generating **topic-wise trend reports** over time.  
+The system ingests reviews daily, discovers and maintains topics using multiple LLM agents, and produces a **Topic × Date trend table** for product teams.
 
-## Project Organization
+---
+
+## 🚀 Key Capabilities
+
+- **End-to-end pipeline**: Review ingestion → topic discovery → trend aggregation
+- **Agentic AI (LangGraph-based)** orchestration
+- **High-recall topic discovery** with strict deduplication
+- **Cross-day topic continuity**
+- **Daily batch processing**
+- **LLM-only topic reasoning** 
+- **Rate-limit safe execution**
+- **Production-ready outputs** 
+
+---
+
+## 🧠 Architecture Overview
+
+### Logical Phases
+
+| Phase | Description | Key Output |
+|-----|------------|-----------|
+| Phase 1.1 | Fetch reviews from Google Play Store (SerpAPI) | Interim JSON |
+| Phase 1.2 | Split reviews into daily files | Daily JSON files |
+| Phase 2 | Agentic topic discovery & categorization | Topics + daily counts |
+| Phase 3 | Topic × Date trend aggregation | CSV trend table |
+
+The entire system is orchestrated using **LangGraph** with explicit state transitions.
+
+---
+
+## 📂 Repository Structure
 
 ```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         review-analysis and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── setup.cfg          <- Configuration file for flake8
-│
-└── review-analysis   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes review-analysis a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+review-analysis-workflow/
+├── data/
+│   ├── interim/        # Raw multi-day review dump
+│   ├── processed/      # Per-day review JSON files
+├── llm/
+│   ├── groq_client.py
+│   ├── mistral_client.py
+│   ├── claude_client.py
+│   └── utils.py
+├── review_analysis/
+│   ├── workflow_phase1.py   # Fetch + daily split
+│   ├── workflow_phase2.py   # Agentic topic discovery
+│   ├── workflow_phase3.py   # Trend aggregation
+│   ├── workflow.py
+│   └── dataset.py
+├── output/
+│   ├── <product_id>/
+│   │   ├── topics.json
+│   │   ├── topic_counts_YYYY-MM-DD.json
+│   │   └── topic_assignments_YYYY-MM-DD.json
+│   └── <product_id>_Topic_Trend_Table.csv
+├── runner_phase1.py
+├── runner_phase2.py
+├── runner_phase3.py
+├── runner.py
+└── README.md
 ```
 
---------
+---
 
+## 🤖 LLM Strategy
+
+| Role | LLM |
+|----|----|
+| Primary categorization | Groq (LLaMA 3.3 70B) |
+| Fallback categorization & rewrite | Mistral (mistral-small-latest) |
+| Topic approval & hallucination guard | Claude Sonnet |
+| Topic deduplication | Strict rejection strategy |
+| Topic naming | Canonical rewrite via LLM |
+
+---
+
+## 🧩 Topic Handling Principles
+
+- Medium granularity topics
+- Short English phrase naming
+- Positive feedback included as topics
+- Very low similarity tolerance
+- Topics persisted per product
+- Reused across batches and days
+- New topics validated before acceptance
+
+---
+
+## 📊 Output Format
+
+### Final Trend Table
+
+**Rows**: Topics  
+**Columns**: Dates (T-30 → T or available range)  
+**Cells**: Frequency of topic occurrence
+
+Example:
+
+```
+Topic                          2026-01-05  2026-01-06  2026-01-07
+Delivery Partner Rude          5           8           12
+Late Delivery                  3           7           10
+Positive Sentiment             12          15          18
+```
+
+Saved as:
+
+```
+output/<product_id>_Topic_Trend_Table.csv
+```
+
+---
+
+## ▶️ How to Run (3-Day Demo)
+
+### 1️⃣ Set Environment Variables
+
+```
+SERPAPI_KEY=...
+GROQ_API_KEY=...
+MISTRAL_API_KEY=...
+CLAUDE_API_KEY=...
+```
+
+### 2️⃣ Run End-to-End Pipeline
+
+```bash
+python runner.py
+```
+
+Default behavior:
+- Processes **last 3 days**
+- Generates topic trends automatically
+
+---
+
+## 🔮 Extensibility
+
+- Extend from 3 days → 30 days or more
+- Add dashboards / visualizations
+- Add alerting on trend spikes
+- Integrate human-in-the-loop review
+- Schedule via cron / Airflow
+
+---
+
+## 📜 License
+
+MIT License
+
+---

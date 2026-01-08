@@ -1,4 +1,4 @@
-# runner.py
+# runner_phase1.py
 
 from review_analysis.workflow_phase1 import build_review_workflow
 
@@ -22,11 +22,11 @@ def run(
         }
     )
 
-    print("\n✅ WORKFLOW COMPLETED SUCCESSFULLY")
+    print("\n WORKFLOW PHASE 1 COMPLETED SUCCESSFULLY")
     print("────────────────────────────────")
-    print("📦 Interim file:")
+    print(" Interim file:")
     print(f"   {final_state['interim_output_path']}")
-    print("\n📅 Daily processed files:")
+    print("\n Daily processed files:")
     for path in final_state["daily_output_paths"]:
         print(f"   {path}")
 
