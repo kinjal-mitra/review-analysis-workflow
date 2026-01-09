@@ -38,5 +38,109 @@
     "Missing items in delivery": {
         "label": "Missing items in delivery",
         "description": "Customer reports receiving fewer items than ordered, with no refund offered due to lack of proof."
+    },
+    "Location detection failure": {
+        "label": "Location detection failure",
+        "description": "App fails to recognize user's location"
+    },
+    "No promotions": {
+        "label": "No promotions",
+        "description": "Absence of promotional offers"
+    },
+    "App lag": {
+        "label": "App lag",
+        "description": "App experiences performance delays"
+    },
+    "Delivery personnel theft": {
+        "label": "Delivery personnel theft",
+        "description": "Delivery personnel stealing money from orders"
+    },
+    "Forced automatic types": {
+        "label": "Forced automatic types",
+        "description": "Automatic type assignments that are mandatory."
+    },
+    "Dark mode theme": {
+        "label": "Dark mode theme",
+        "description": "Request for a dark mode theme"
+    },
+    "Multiple account login restriction": {
+        "label": "Multiple account login restriction",
+        "description": "Issue with logging in from multiple accounts on the same device"
+    },
+    "Add egg-based food indicator": {
+        "label": "Add egg-based food indicator",
+        "description": "Introduce a yellow indicator for egg-based items to improve food category filtering."
+    },
+    "Failed UPI discount": {
+        "label": "Failed UPI discount",
+        "description": "Discount not applied after UPI payment failure"
+    },
+    "Expired coupons": {
+        "label": "Expired coupons",
+        "description": "Coupon validity expired before redemption"
+    },
+    "Worker Exploitation": {
+        "label": "Worker Exploitation",
+        "description": "Ethical concerns about unfair labor practices"
+    },
+    "App redundancy": {
+        "label": "App redundancy",
+        "description": "Removing redundant apps after successful integration"
+    },
+    "Menu Originality": {
+        "label": "Menu Originality",
+        "description": "Accuracy of the restaurant's published menu"
+    },
+    "order cancellation": {
+        "label": "order cancellation",
+        "description": "order cancelled"
+    },
+    "Blind accessibility issues": {
+        "label": "Blind accessibility issues",
+        "description": "Challenges faced by blind users in accessing digital content"
+    },
+    "Monthly expense reports": {
+        "label": "Monthly expense reports",
+        "description": "Generate reports for Instamart and food orders by month and year"
+    },
+    "Fraudulent practices": {
+        "label": "Fraudulent practices",
+        "description": "Fraudulent activities reported on Swiggy"
+    },
+    "Credit card visibility": {
+        "label": "Credit card visibility",
+        "description": "Issue with viewing HDFC credit card options"
+    },
+    "Delivery Area Restrictions": {
+        "label": "Delivery Area Restrictions",
+        "description": "Limited or unavailable delivery service in certain locations"
+    },
+    "Address Change Issue": {
+        "label": "Address Change Issue",
+        "description": "Unable to update or select a new address during delivery"
+    },
+    "Near-expiry product delivery": {
+        "label": "Near-expiry product delivery",
+        "description": "Receiving items with very short remaining shelf life"
+    },
+    "User search flow": {
+        "label": "User search flow",
+        "description": "Inefficient search experience with limited information and no dish previews"
+    },
+    "Vegetarian Filter": {
+        "label": "Vegetarian Filter",
+        "description": "Display only vegetarian items from vegetarian hotels/messes"
+    },
+    "UI Simplification": {
+        "label": "UI Simplification",
+        "description": "Feedback on making the interface cleaner and more intuitive"
+    },
+    "Frequent login failures": {
+        "label": "Frequent login failures",
+        "description": "Users report excessive login issues"
+    },
+    "Payment gateway failure": {
+        "label": "Payment gateway failure",
+        "description": "Payment gateway not working"
     }
 }

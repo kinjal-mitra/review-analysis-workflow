@@ -107,7 +107,7 @@ def persist_trend_report_node(state: Phase4State) -> Phase4State:
 
     state["trend_df"].to_csv(output_path)
 
-    print(f"\n📊 Topic trend table saved to: {output_path}")
+    print(f"\n Topic trend table saved to: {output_path}")
     return state
 
 

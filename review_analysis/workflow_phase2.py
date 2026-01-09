@@ -93,7 +93,7 @@ def categorize_batches_node(state: Phase3State) -> Phase3State:
         # ---------- Fallback: Mistral (budgeted) ----------
         except Exception:
             if state["mistral_calls"] >= state["max_mistral_calls"]:
-                print("⚠️ Mistral daily budget exhausted. Skipping batch.")
+                print(" Mistral daily budget exhausted. Skipping batch.")
                 continue
 
             try:
@@ -108,7 +108,7 @@ def categorize_batches_node(state: Phase3State) -> Phase3State:
                 time.sleep(10)
 
             except Exception:
-                print("⚠️ Mistral fallback failed. Skipping batch.")
+                print(" Mistral fallback failed. Skipping batch.")
                 continue
 
         # ---------- Process Responses ----------

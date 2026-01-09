@@ -1,0 +1,33 @@
+{
+    "date": "2026-01-02",
+    "topics": {
+        "Positive Feedback": 330,
+        "Delivery Speed": 14,
+        "Delayed cold orders": 2,
+        "High Pricing": 10,
+        "Poor Food Quality": 10,
+        "Unaccountable delivery delays": 20,
+        "spyware risks": 0,
+        "Unresponsive support": 30,
+        "Cash on delivery unavailability": 1,
+        "Missing items in delivery": 8,
+        "Location detection failure": 0,
+        "No promotions": 9,
+        "App lag": 1,
+        "Delivery personnel theft": 1,
+        "Forced automatic types": 1,
+        "Dark mode theme": 0,
+        "Multiple account login restriction": 0,
+        "Add egg-based food indicator": 0,
+        "Failed UPI discount": 0,
+        "Expired coupons": 1,
+        "Worker Exploitation": 0,
+        "App redundancy": 0,
+        "Menu Originality": 0,
+        "order cancellation": 9,
+        "Blind accessibility issues": 0,
+        "Monthly expense reports": 0,
+        "Fraudulent practices": 12,
+        "Credit card visibility": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2025-12-31",
+    "topics": {
+        "Positive Feedback": 643,
+        "Delivery Speed": 10,
+        "Delayed cold orders": 4,
+        "High Pricing": 27,
+        "Poor Food Quality": 16,
+        "Unaccountable delivery delays": 51,
+        "spyware risks": 0,
+        "Unresponsive support": 48,
+        "Cash on delivery unavailability": 2,
+        "Missing items in delivery": 6,
+        "Location detection failure": 4,
+        "No promotions": 17,
+        "App lag": 4,
+        "Delivery personnel theft": 4,
+        "Forced automatic types": 0,
+        "Dark mode theme": 0,
+        "Multiple account login restriction": 1,
+        "Add egg-based food indicator": 1,
+        "Negative Feedback": 2,
+        "Failed UPI discount": 1,
+        "Expired coupons": 2,
+        "Worker Exploitation": 4,
+        "App redundancy": 1
+    }
+}

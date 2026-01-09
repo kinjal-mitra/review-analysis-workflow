@@ -44,7 +44,7 @@ def run_phase3_all_days(
         entries.sort(key=lambda x: x[0])
 
         for date, file_path in entries:
-            print(f"  📅 Processing date: {date}")
+            print(f" Processing date: {date}")
 
             try:
                 graph.invoke(

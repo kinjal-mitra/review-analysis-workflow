@@ -1,11 +1,37 @@
-,2026-01-04,2026-01-05,2026-01-06,2026-01-07
-Positive Feedback,39,30,24,35
-Delivery Speed,1,1,1,0
-Delayed cold orders,1,0,0,0
-High Pricing,1,2,3,2
-Poor Food Quality,1,0,2,1
-Unaccountable delivery delays,4,2,3,3
-spyware risks,1,0,0,0
-Unresponsive support,1,4,6,4
-Cash on delivery unavailability,0,0,1,0
-Missing items in delivery,0,0,0,1
+,2025-12-29,2025-12-30,2025-12-31,2026-01-01,2026-01-02,2026-01-03,2026-01-04,2026-01-05,2026-01-06,2026-01-07
+Positive Feedback,308,300,643,578,330,369,379,315,294,289
+Delivery Speed,6,8,10,16,14,10,11,8,8,7
+Delayed cold orders,2,1,4,1,2,0,3,2,0,2
+High Pricing,16,22,27,8,10,19,18,5,12,8
+Poor Food Quality,11,13,16,15,10,8,12,8,6,15
+Unaccountable delivery delays,35,29,51,39,20,31,34,34,24,36
+spyware risks,1,0,0,0,0,1,1,0,0,0
+Unresponsive support,34,33,48,44,30,29,32,25,29,29
+Cash on delivery unavailability,2,2,2,3,1,0,3,6,1,2
+Missing items in delivery,2,8,6,12,8,6,8,6,3,5
+Location detection failure,2,0,4,2,0,1,3,1,0,1
+No promotions,2,5,17,8,9,3,1,3,5,6
+App lag,2,5,4,5,1,3,2,1,1,0
+Delivery personnel theft,1,1,4,2,1,2,0,0,2,2
+Forced automatic types,0,2,0,0,1,0,2,0,1,0
+Dark mode theme,0,1,0,0,0,0,0,0,0,0
+Multiple account login restriction,0,0,1,2,0,4,0,0,0,0
+Add egg-based food indicator,0,0,1,0,0,0,1,0,0,0
+Failed UPI discount,0,0,1,2,0,0,2,0,1,0
+Expired coupons,0,0,2,1,1,0,2,1,0,0
+Worker Exploitation,0,0,4,2,0,1,3,1,2,0
+App redundancy,0,0,1,3,0,1,0,1,0,0
+Menu Originality,0,0,0,2,0,1,2,1,0,0
+order cancellation,0,0,0,13,9,8,18,10,5,8
+Blind accessibility issues,0,0,0,1,0,0,0,0,0,0
+Monthly expense reports,0,0,0,1,0,0,0,0,0,0
+Fraudulent practices,0,0,0,9,12,13,9,8,9,8
+Credit card visibility,0,0,0,0,1,0,0,0,0,0
+Delivery Area Restrictions,0,0,0,0,0,4,1,1,1,1
+Address Change Issue,0,0,0,0,0,1,0,0,0,0
+Near-expiry product delivery,0,0,0,0,0,2,0,0,2,2
+User search flow,0,0,0,0,0,1,0,1,1,0
+Vegetarian Filter,0,0,0,0,0,0,0,1,0,0
+UI Simplification,0,0,0,0,0,0,0,1,1,0
+Frequent login failures,0,0,0,0,0,0,0,0,2,0
+Payment gateway failure,0,0,0,0,0,0,0,0,1,0

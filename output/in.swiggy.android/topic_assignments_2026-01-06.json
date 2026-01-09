@@ -1,5 +1,153 @@
 [
     {
+        "review": "superb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good but not best",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "useless app, in sharing order option it literally delayed my order by 2 hours. Zomato is 100 times better than this",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "Deleivery is very good \ud83d\udcaf",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst customer care support . I had rated 5 star , changed to 1 star on 06.01.26",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "not value for money",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "superb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "cool",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I have received spoilaged food and no reply is given from Swiggy despite multiple reminder through multiple modes.",
+        "topic": "Poor Food Quality"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best aap",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "login problem too much",
+        "topic": "Frequent login failures"
+    },
+    {
+        "review": "Customer support sucks they charged me 397rs for cancelation unnecessary i contacted the restaurant they told me none of the food was wasted",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good taste more restarent delivery person good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "fantastic everything \ud83d\ude0d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "bring back human customer support at first level instead of stupid automated bots. Customers closing issues out of disgust doesn't mean 100% success.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "superb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "fraudsters",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "worst, I wanted to give minus stars for this. They accept order even if payment is not completed. If we want to cancel the order, there is no cancellation option in the app. When I ask customer support to cancel my order then they will ask for 100% cancellation fee. This is a total scam where eventually the customer will have to pay in either of the scenarios. Why it is accepting order even when the payment is not even completed. I will never ever use this app again in future. Scam delivery app.",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best one",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "osm",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice offers",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "this is worst app sometimes delivery person mussbehave and sometimes they don't come in time sometimes they take someone else order in my adress",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
         "review": "good \ud83d\udc4d",
         "topic": "Positive Feedback"
     },
@@ -8,24 +156,68 @@
         "topic": "Positive Feedback"
     },
     {
+        "review": "u guys charge high and day by day no offers at all which is useful to customers ..",
+        "topic": "High Pricing"
+    },
+    {
         "review": "good",
         "topic": "Positive Feedback"
     },
     {
-        "review": "worst experience, I got a wrong item and picture clearly shows that, you didn't provide compensation, I don't you should shut down your support team , good for nothing......",
-        "topic": "Unresponsive support"
-    },
-    {
-        "review": "soooo much delivery charge \ud83d\ude21\ud83d\ude20\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
-        "topic": "High Pricing"
-    },
-    {
-        "review": "Good \ud83d\udc4d",
+        "review": "good",
         "topic": "Positive Feedback"
     },
     {
-        "review": "Worst technical team and support team. Was one of the early adopters of Swiggy Instamart. Now there's a bug in their app and for any offer or rewards always the minimum amount in cart page shows 1999 unlike welcome offer. I have raised in help and mail. No use. Just horrible team.",
+        "review": "osm",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "gud",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Waited over an hour for my order, only for Swiggy to cancel it. Customer support was completely unhelpful, failed to understand the issue, and kept asking me to email instead of resolving it on chat. They even refused to end the chat despite multiple requests, clearly to avoid feedback. Very disappointing service.",
         "topic": "Unresponsive support"
+    },
+    {
+        "review": "it is confusion to select the order and quantity",
+        "topic": "UI Simplification"
+    },
+    {
+        "review": "order received tooo let",
+        "topic": "order cancellation"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "delivery charges are too high.This is india and not west.",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "well \ud83d\udc4d",
+        "topic": "Positive Feedback"
     },
     {
         "review": "It is Very High Price Of all The Products In Instamart. In Market Oil Price where 2200rs and In instamart it was around 2355 rs. And After That Delivery Charges , GST , Surge Charge . For Convience Swiggy charged around 250 extra in just one oil tin.",
@@ -36,23 +228,35 @@
         "topic": "Positive Feedback"
     },
     {
-        "review": "waste app this I'm ordering more than 10 times every one missing items in the order it's disgusting to see waste waste app this is....",
-        "topic": "Poor Food Quality"
-    },
-    {
-        "review": "good app",
+        "review": "excellent",
         "topic": "Positive Feedback"
     },
     {
-        "review": "Pathetic and frustrating ! Poor delivery and ETA that changes in every minute",
+        "review": "ok",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Swiggy should improve its app features. I was just checking fee difference between different payment methods and as i clicked COD order placed, you can confirm at leastonce after that. More than that when i cancelled within 1 sec they denied and no option for call. Now keep sending delivery no when is at the address and i will not order again via swiggy.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "worst service 15 minutes order not yet delivered even in 1 hour... should improve the service or leave the market forever\ud83d\ude4f",
         "topic": "Unaccountable delivery delays"
     },
     {
-        "review": "but needs more offers to order regular",
-        "topic": "High Pricing"
+        "review": "nice \ud83d\ude42",
+        "topic": "Positive Feedback"
     },
     {
-        "review": "well \ud83d\udc4d",
+        "review": "Good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice work done \ud83d\udc4d\u2705",
         "topic": "Positive Feedback"
     },
     {
@@ -60,15 +264,35 @@
         "topic": "Positive Feedback"
     },
     {
-        "review": "login problem too much",
-        "topic": "Unresponsive support"
+        "review": "very bad app \ud83d\ude15 this app food \ud83e\udd2e",
+        "topic": "Poor Food Quality"
     },
     {
         "review": "Best",
         "topic": "Positive Feedback"
     },
     {
-        "review": "I am loving it",
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "keep more offers",
+        "topic": "No promotions"
+    },
+    {
+        "review": "good quality",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "the app is very good you should read this app 5 out of three or four because none of the app is very good to get 5 out of five because none of the app is perfectly good \ud83d\ude0a.",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Very useful app for ordering in .",
         "topic": "Positive Feedback"
     },
     {
@@ -77,30 +301,122 @@
     },
     {
         "review": "worst app don't buy any thing from Instamart.. they always send expired and cheap quality products.. if we are trying to convey the issue they won't respond properly.. even they won't take back the their products also.. I have ordered konjac rice they sent expired rice i have raised complaint against it.. but they are simply saying it has shelf life so we won't take back.. they hide expiry date with some other stickers. even I have updated pics and videos too.. they are simply saying we won't",
-        "topic": "Poor Food Quality"
+        "topic": "Near-expiry product delivery"
     },
     {
-        "review": "good",
+        "review": "very useful app",
         "topic": "Positive Feedback"
     },
     {
-        "review": "good",
+        "review": "good Idea Swiggy",
         "topic": "Positive Feedback"
     },
     {
-        "review": "Swiggy should improve its app features. I was just checking fee difference between different payment methods and as i clicked COD order placed, you can confirm at leastonce after that. More than that when i cancelled within 1 sec they denied and no option for call. Now keep sending delivery no when is at the address and i will not order again via swiggy.",
-        "topic": "Unresponsive support"
+        "review": "no waste of time very good instamart\ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83d\udc4c\ud83c\udffb",
+        "topic": "Positive Feedback"
     },
     {
-        "review": "I am having difficulty understanding why a 1km delivery would require a minimum of 30 minutes,My experience was not satisfactory.",
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "This is the worst food delivery app ever! Most of the time they don't deliver food on time, even after having black membership. And their response is pathetic!!",
         "topic": "Unaccountable delivery delays"
     },
     {
-        "review": "cash on delivery is not available Instamart",
-        "topic": "Cash on delivery unavailability"
+        "review": "very pathetic you Swiggy people, deliver BEEF , from delivery partner's. irrespective of their consent....very disturbing.",
+        "topic": "Worker Exploitation"
     },
     {
-        "review": "good \ud83d\ude0a\ud83d\udc4d\ud83c\udffb",
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\ud83d\udc4d\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "fineservice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "fast",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "customer support is worst.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "you either name it as quarter biriyani. Making fun of customers by titling is as a discount offer... \ud83d\ude02so shame of u swiggy.",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "great experience",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "jabardast",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "it's nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very bad service",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "nice food nd nice delivery",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "not cancelling my order that they themselves placed",
+        "topic": "order cancellation"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "awesome service",
         "topic": "Positive Feedback"
     },
     {
@@ -108,23 +424,591 @@
         "topic": "Positive Feedback"
     },
     {
-        "review": "best experience of delivery and quality",
+        "review": "good",
         "topic": "Positive Feedback"
     },
     {
-        "review": "worst customer service and support",
+        "review": "wow",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "ok",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "customer service these days is quite disappointing. It seems like every interaction is handled by a bot, which is quite frustrating. The late replies and lack of assistance from customer service representatives are particularly disheartening. It's clear that customer support is none from swiggy. I hope companies can improve their customer service. ps-i did email you but still swiggy is not accepting his mistake despite clear evidences on photos as always.pathetic service",
         "topic": "Unresponsive support"
     },
     {
-        "review": "Nothing to say. Awesome as always.....",
+        "review": "worst app for delivery, so many delayed order , and even if I missed an item in the order it didn't solve the problem and told me to send an email , no response to email or anything , once this used to be so good , but now it's not .",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "bhut acha hai",
         "topic": "Positive Feedback"
     },
     {
-        "review": "superb app",
+        "review": "useful app",
         "topic": "Positive Feedback"
     },
     {
-        "review": "worst food delivery app also the coustomer support is worst",
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Don't like the recent update to the Swiggy App... Food search no longer gives the option to view results restaurants as well as dishes. This used to be so convenient, to quickly view dishes that met the search criteria with a quick scroll, without needing to click into EACH restaurant to see if they even have what you are looking for. Not in the least user friendly :((( suggest roll back to search results they way they used to be.",
+        "topic": "User search flow"
+    },
+    {
+        "review": "best \ud83e\udd73\ud83e\udd73",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "don't use Instamart expered product",
+        "topic": "Near-expiry product delivery"
+    },
+    {
+        "review": "I ordered a meal on the 5th, the order was accepted, the delivery boy called me and said he couldn't deliver your meal because the company wasn't paying me much. On the 6th morning, I noticed that my meal wasn't with me.",
+        "topic": "Delivery personnel theft"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Deserves 0 stars, the restaurant had cancelled my order and Swiggy refused to give me a refund despite the restaurant cancelling the order.",
+        "topic": "order cancellation"
+    },
+    {
+        "review": "good for long distance",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "less offers",
+        "topic": "No promotions"
+    },
+    {
+        "review": "worst delivery service always late and no proper response from the team.",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "\u2764\ufe0f\u200d\ud83e\ude79\ud83e\udd0e\u2764\ufe0f\u200d\ud83e\ude79\ud83e\udd0e\u2764\ufe0f\u200d\ud83e\ude79\ud83e\udd0e",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super akka",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "thanks swiggy",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Platform fee + delivery charges+ tax = Too much",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "nice\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "average",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "everything else is fine but delivery is late",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "Mast Hai",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst app. cancellation fee \ud83d\udc37 % of order amount. worst customer care service too",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "order delayed \ud83d\ude24 2 hours",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "pramoyam food",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\ud83d\ude0a",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst quality Instamart goods.. I ordered 30 eggs and I got 6 broken eggs and som of eggs got fungi and some colour change.. worst quality and packing .. and I got no help from Swiggy.. worst experience.. is there any chance to give zero stars.. I hate Swiggy..",
+        "topic": "Poor Food Quality"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "besides thvfood the delivery service is slower then a turtle the would freeze the timer on the app like- my order is coming in 11 minutes since 1 hour",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "superb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nic",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst experience, I got a wrong item and picture clearly shows that, you didn't provide compensation, I don't you should shut down your support team , good for nothing......",
+        "topic": "Missing items in delivery"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "they won't deliver your order on time even though you are a one black customer. i pissed off with their service there is no option to give negative starts that's why I am giving 1 star",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "missing item",
+        "topic": "Missing items in delivery"
+    },
+    {
+        "review": "Very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice app is aslovs nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "supper",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "initially it said 100 rupees discount but it was not implemented. they are lier",
+        "topic": "Failed UPI discount"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very nice \ud83d\udc4c",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice food.",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "cash on delivery is not available Instamart",
+        "topic": "Cash on delivery unavailability"
+    },
+    {
+        "review": "nice work ,",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Best",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\ud83c\udf41",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "please do not buy anything on this platform it's all cheating and fraud \ud83d\ude2d",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "amazing \ud83e\udd29",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "i just can't express i much i have suffered every time i had ordered anything from here. the frustration is so real that today i just told myself \" bhool kr b Swiggy use nahi krna\" you guys make the customers wait for an hour just to cancel the order when you can't find the delivery partner. just close the app if you can't give a good service. you always ruin my day.",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "nice food delivery app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very nice food and very nice delivery",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Pathetic Service Support",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "10 minutes time",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "worst experience....have to wait for 1hr and more for food to get delivered....does not assign the delivery partner fast.... executive don't even respond",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "delivery in time and product is too good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "its good \ud83d\ude0a",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "great",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good delivery",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best sellers \ud83d\ude01",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "extra charge",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "Nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst order app. has some great offers but the delivery takes more than 1.5hrs even for 7kms. and the order is always delayed. no cancellation option. no cooperative staff. nothing. order gets cancelled anytime without your option and no compensation nothing. please try zomato or any order food app not Swiggy",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "wow",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "ok",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "it's good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Very disappointed with Swiggy. Late delivery and cold food. Not worth the money.",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "Swiggy delivered n wrong order n they r not helping me with d issue simply dodging d question n making it difficult for us to reach out to them.. i paid a larger sum for a order that was v less priced d managers dirn seem to help or assist n they take all d details n just wrap d conversation .pls watch out guys .service is not like before.not helpful or professional at all . Swiggy not helping.. excessively salty food they just ignored by giving excuses i paid d full money n not able to eat it",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "maha ke jhaatuu hai ye log ye log chor hai is app ko jald uninstall kro",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "WORST APP EVER. OPENLY SCAMMING. SO MANY TIMES THE ITEMS IN MY ORDER WERE MISSING, OR WRONG ITEMS WERE SENT, OR ITEMS WERE SPILLED ETC, BUT THEY DIDNOT GAVE ANY REFUND!!!! THEY ARE TAKING MONEY WITHOUT GIVING ANY FOOD!!!!THEY TOLD ME THAT WE WILL MAIL YOU BACK IN 3 DAYS BUT NO MAIL CAME ALSO. SWIGGY NOW IS JUST PURE SCAM. I AM FILING AN OFFICIAL COMPLAINT TO NATIONAL CONSUMER HELPLINE (NCH). THESE PEOPLE ARE OPENLY SCAMMING NOW!!",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "gpod",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very best foody app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I love swiggy",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "ok job",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good\ud83d\udc4d\ud83c\udffb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Lakhimpur walo iss app ka use na krna",
+        "topic": "Delivery Area Restrictions"
+    },
+    {
+        "review": "okay good \ud83d\udc4d\ud83c\udffb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "must",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "mast hai guys",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "but sometimes order is delay",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "very good \ud83d\udc4d\ud83c\udffb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\u2763\ufe0f\u2763\ufe0f",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good but charges high.",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "yery nice \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d God bless you",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good responce",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Blocked my account for unknown reasons. No review or help provided. Switching to zomato",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "great \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "excellent \ud83d\udc4c",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best food aap",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "awesome",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d\ud83c\udffb\ud83d\ude0a",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "that very best service in our world",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "wrost Customer support",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "thankyou",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "application good delivery good but Swiggy service totaly bad my issue not resolved",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "9:49 PM I ordered Food, , 2 hours 1 minute later, the order was cancelled. 11:51 PM The amount was refunded. When I called customer care for the first time, the delivery person did not pick the call. They said they I will arrange another delivery partner for you. The second delivery partner, called me and already picked up your order someone , So what should I do? I called customer care no response worst experience Swiggy ,uninstall Swiggy bye byeee",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "worst experience \ud83d\ude1eI have already deleted the Swiggy app from my mobile phone and from my family members\u2019 mobile phones as well.I like Swiggy very much, and I have purchased most of my gadgets through Swiggy. Thank you for supporting me over the past few years, but now I feel it was bad and waste.\u201d Thank you....\ud83d\ude4f",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d\ud83d\ude0a",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "osm",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good working \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "gud",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "poor service",
         "topic": "Unresponsive support"
     },
     {
@@ -132,12 +1016,532 @@
         "topic": "Positive Feedback"
     },
     {
-        "review": "service sahi nahi hai",
+        "review": "super Mario",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good but ok",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "excellent",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "bahut badiya",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "all offer were fake",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "nice \ud83d\ude42\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very nice\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very nice \ud83d\udc4c",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udcaf",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "okay",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "thank you for solving my problem and I refer to use the Swiggy application",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I ordered dry fruit laddoo but Restaurant sent soan Papdi and when raising complaint over email they say \"we will not be able to help\", not trust worthy application. Now before replying to this review search your email with me name and resolve",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "great app but less offer",
+        "topic": "No promotions"
+    },
+    {
+        "review": "Nothing to say. Awesome as always.....",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "great",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "A very bad experience in this app The service is too poor please don't dwld this app",
+        "topic": "Poor Food Quality"
+    },
+    {
+        "review": "best app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "not even able to login. just says too many login attempts.",
+        "topic": "Frequent login failures"
+    },
+    {
+        "review": "good 2 years experience",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Dinein cash utilisation is capped to only 200 per bill, whereas cashback amount is 10%. This means one can never use all the Dinein cash amount during redemption at restaurant.. And the Dinein cash will expire mandatorily, which means no value added for recurral visits to restaurants using dineout for redemption of Dinein cash amount.",
+        "topic": "Forced automatic types"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "fast service",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "you are brilliant \ud83d\udc4f \ud83d\ude00",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "best app to eat food \ud83d\ude01 every time i use i will be happy \ud83d\ude0a\ud83d\ude01",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst customer service and support",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very bad service",
         "topic": "Unaccountable delivery delays"
     },
     {
-        "review": "on time service",
+        "review": "good one swiggy",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I have to stay hungry for that day in train",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "not on time",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "goid",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "bohot mehega hai",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "must appp",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice and managed",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good job \ud83d\udc4f",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst experience prices are very higher",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I will never use it again in the future too much delay order rider told me order not ready that is a reason for the delay.",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "total froud worst app.full itam not delivered",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "soooo much delivery charge \ud83d\ude21\ud83d\ude20\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "super app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very poor service.....after waiting you people cancelled order....",
+        "topic": "order cancellation"
+    },
+    {
+        "review": "nice \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Its pathetic, do not use it, no resposibility.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "worst worst experience they treat customers like thier slaves",
+        "topic": "Worker Exploitation"
+    },
+    {
+        "review": "waste swiggy \ud83e\udd2e\ud83e\udd2e don't order swiggy Maine order diya tha 9: 30 ko abhi tak receive nahin hua 10:31 clock aur vahan per bola tha tumhara order 30 minut mein deliver ho jaega waste of swiggy \ud83e\udd2e",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "came back to give a bad review and guess what i had done it already in 2022 stupid app with bugs and worst customer service",
+        "topic": "App lag"
+    },
+    {
+        "review": "good \ud83d\udc4d\ud83c\udffb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "time 9 call Swiggy life ka line",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "super se uper offer, thank you swingy",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I am having difficulty understanding why a 1km delivery would require a minimum of 30 minutes,My experience was not satisfactory.",
         "topic": "Delivery Speed"
+    },
+    {
+        "review": "ok",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "yes but need fast and I need item",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "worst app they cancelled my order and refund not given I lost 1000 rupes...I want to complaint in social media",
+        "topic": "order cancellation"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "used to love Swiggy earlier,these days prices are way costly and delivery charges are also way higher..it's better to go out and grab the food instead of ordering via swiggy",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "Good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Worst App ever Just after purchasing Swiggy One Subscription The Offers from restaurant decreased to nil now . My only Advice to everyone is do not purchase their Swiggy One Subscription.",
+        "topic": "No promotions"
+    },
+    {
+        "review": "nice \ud83d\ude0a\ud83d\udc4f",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst service and worst customer care",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "nice deals",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "it's easy and good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "my Instamart issue is not resolved.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "bad experience not good food deleiver",
+        "topic": "Poor Food Quality"
+    },
+    {
+        "review": "excellent",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good\ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good service One complaint is delivery boy doesn't have change",
+        "topic": "Delivery personnel theft"
+    },
+    {
+        "review": "excellent \ud83d\udc4c",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Amazing",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "\u2b50 1 Star \u2013 Unacceptable Support Swiggy charged me for an item that was not delivered (missing leg piece) and still refused a refund. This wasn\u2019t about food quality \u2014 it was a paid item missing from the order. Support responded with a generic message instead of a solution. Taking money for undelivered items and denying refunds is unfair and disappointing. Very poor customer support.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "very super swiggy very super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "superb app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "The worst app. Constant delays, constantly miss certain items, and deliver wrong items too. Better to use any other delivery app. And all of this is despite me using Swiggy Black. DON'T BUY SWIGGY BLACK.",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "Pathetic and frustrating ! Poor delivery and ETA that changes in every minute",
+        "topic": "Unaccountable delivery delays"
+    },
+    {
+        "review": "but needs more offers to order regular",
+        "topic": "No promotions"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "worst food delivery app also the coustomer support is worst",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "best experience of delivery and quality",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "payment gateway not working",
+        "topic": "Payment gateway failure"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Hi chef Glad to you \ud83e\udd24\ud83e\udd24\ud83e\udd24\ud83e\udd24",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I am loving it",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "service sahi nahi hai",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "the support executive are unable to provide any resolution when ever I connect them",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "it's very well and comfortable to order, and delivery always comes timely.",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "Worst Customer service... dont get fooled by the advertisements",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "app is awesome",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "food taste very good \ud83d\ude0b",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\ude0a\ud83d\udc4d\ud83c\udffb",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice app",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "i never rate apps but Swiggy has been acting strange lately the product was really bad and after complaining I did not get any response and this is really unacceptable",
+        "topic": "Poor Food Quality"
+    },
+    {
+        "review": "super",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "VERI NICE AMERJENCY HUNGER",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "fake",
+        "topic": "Fraudulent practices"
+    },
+    {
+        "review": "very poor service",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "nice",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good and fast app",
+        "topic": "Positive Feedback"
     },
     {
         "review": "good",
@@ -148,15 +1552,95 @@
         "topic": "Positive Feedback"
     },
     {
-        "review": "excellent",
+        "review": "good",
         "topic": "Positive Feedback"
     },
     {
-        "review": "good service",
+        "review": "service very bad,no any customer care all number, email no reply,I have order payment failed money deducted account but no refunded from 1 months",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "delivery experience is very \ud83d\udc4e",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "very good Swiggy",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "super service",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "on time service",
+        "topic": "Delivery Speed"
+    },
+    {
+        "review": "best good service",
         "topic": "Positive Feedback"
     },
     {
         "review": "nicee",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "The food quality was really good and tasted fresh. The packaging was neat and secure with no spillage. Delivery was on time and the delivery partner was polite. Overall, a smooth and satisfying experience. Would definitely recommend.",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "nice \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "Worst technical team and support team. Was one of the early adopters of Swiggy Instamart. Now there's a bug in their app and for any offer or rewards always the minimum amount in cart page shows 1999 unlike welcome offer. I have raised in help and mail. No use. Just horrible team.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "waste app this I'm ordering more than 10 times every one missing items in the order it's disgusting to see waste waste app this is....",
+        "topic": "Missing items in delivery"
+    },
+    {
+        "review": "good service..",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "peisa lut ne ki masi. he",
+        "topic": "High Pricing"
+    },
+    {
+        "review": "good price hy",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "I recently realised why people like zomato more. Swiggy will keep you hungry at the time of crisis with no proper customer support.",
+        "topic": "Unresponsive support"
+    },
+    {
+        "review": "good \ud83d\udc4d",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "it's so cool",
+        "topic": "Positive Feedback"
+    },
+    {
+        "review": "good",
         "topic": "Positive Feedback"
     }
 ]

@@ -35,5 +35,5 @@ if __name__ == "__main__":
     run_end_to_end(
         app_url="https://play.google.com/store/apps/details?id=in.swiggy.android",
         target_date="2026-01-07",
-        lookback_days=3,  #  fixed to 3 days for now
+        lookback_days=10,
     )
